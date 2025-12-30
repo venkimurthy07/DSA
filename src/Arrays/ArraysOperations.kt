@@ -1,6 +1,0 @@
-package Arrays
-
-class ArraysOperations {
-
-    //
-}
